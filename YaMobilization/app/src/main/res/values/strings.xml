@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YaMobilization</string>
+    <string name="action_settings">Settings</string>
+    <string name="s_artists">Исполнители</string>
+    <string name="title_activity_artist_info">ArtistInfoActivity</string>
+    <string name="s_biography">Биография</string>
+    <string name="s_no_connection">Нет подключения</string>
+    <string name="s_retry">ПОВТОРИТЬ</string>
+
+    <string name="transition_name_cover">transition:COVER</string>
+
+    <string name="s_albums_1">альбом</string>
+    <string name="s_albums_2">альбома</string>
+    <string name="s_albums_3">альбомов</string>
+
+    <string name="s_tracks_1">песня</string>
+    <string name="s_tracks_2">песни</string>
+    <string name="s_tracks_3">песнен</string>
+    <string name="ss">qwe</string>
+</resources>
